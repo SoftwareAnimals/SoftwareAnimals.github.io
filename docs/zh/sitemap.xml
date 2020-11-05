@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://SoftwareAnimals.github.io/zh/posts/hello-world/</loc>
+    <lastmod>2020-11-05T15:21:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://SoftwareAnimals.github.io/zh/posts/</loc>
+    <lastmod>2020-11-05T15:21:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://SoftwareAnimals.github.io/zh/</loc>
+    <lastmod>2020-11-05T15:21:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="http://SoftwareAnimals.github.io/tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://SoftwareAnimals.github.io/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://SoftwareAnimals.github.io/zh/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="http://SoftwareAnimals.github.io/tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://SoftwareAnimals.github.io/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://SoftwareAnimals.github.io/zh/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="http://SoftwareAnimals.github.io/tw/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://SoftwareAnimals.github.io/zh/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://SoftwareAnimals.github.io/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="http://SoftwareAnimals.github.io/tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://SoftwareAnimals.github.io/zh/tags/"
+                />
+  </url>
+  
+</urlset>

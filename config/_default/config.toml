@@ -2,6 +2,7 @@ baseURL = "http://SoftwareAnimals.github.io/"
 languageCode = "zh-tw"
 title = "Software Animals"
 theme = "zzo"
+publishdir = "docs"
 
 defaultContentLanguage = "zh" # Default language to use (if you setup multilingual)
 defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
