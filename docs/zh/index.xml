@@ -11,8 +11,8 @@
     <description>Recent content on 軟體動物 Software Animals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>zionlin1996@gmail.com (軟體動物)</managingEditor>
+    <webMaster>zionlin1996@gmail.com (軟體動物)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Nov 2020 15:21:13 +0800</lastBuildDate>
     
@@ -47,12 +47,12 @@
         <title>Hello World</title>
         <link>http://SoftwareAnimals.github.io/zh/posts/hello-world/</link>
         <pubDate>Thu, 05 Nov 2020 15:21:13 +0800</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>zionlin1996@gmail.com (軟體動物)</author>
         <atom:modified>Thu, 05 Nov 2020 15:21:13 +0800</atom:modified>
         <guid>http://SoftwareAnimals.github.io/zh/posts/hello-world/</guid>
         <description>Hello world!</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>軟體動物</dc:creator>
         
         
         
